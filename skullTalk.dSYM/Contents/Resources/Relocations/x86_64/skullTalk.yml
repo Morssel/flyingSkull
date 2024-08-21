@@ -1,0 +1,11 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     skullTalk
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _SynthCallback, symObjAddr: 0x0, symBinAddr: 0x100000810, symSize: 0x2F0 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _all_samples, symObjAddr: 0x1F70, symBinAddr: 0x100002000, symSize: 0x0 }
+  - { offsetInCU: 0x6E, offset: 0x6E, size: 0x8, addend: 0x0, symName: _total_samples, symObjAddr: 0x1F78, symBinAddr: 0x100002008, symSize: 0x0 }
+  - { offsetInCU: 0x95, offset: 0x95, size: 0x8, addend: 0x0, symName: _synthesis_complete, symObjAddr: 0x1F7C, symBinAddr: 0x10000200C, symSize: 0x0 }
+  - { offsetInCU: 0x10D, offset: 0x10D, size: 0x8, addend: 0x0, symName: _SynthCallback, symObjAddr: 0x0, symBinAddr: 0x100000810, symSize: 0x2F0 }
+  - { offsetInCU: 0x17C, offset: 0x17C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2F0, symBinAddr: 0x100000B00, symSize: 0x1E9 }
+...
